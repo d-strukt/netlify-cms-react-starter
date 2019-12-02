@@ -33,6 +33,7 @@
     "react-feather": "^2.0.3",
     "react-helmet": "^5.2.1",
     "react-markdown": "4.2.2",
+    "react-p5": "^1.1.8",
     "react-router-dom": "^5.0.1",
     "react-snapshot": "^1.1.0"
   },
